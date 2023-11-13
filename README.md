@@ -1,4 +1,4 @@
 # check-http-status
-URL status check 
-Manually management of HTTP data is easier but it is time consuming when user has large dataset. In this case, 'http' package can help in
-HTTP data management. Here, I am sharing the codes for HTTP data management that can be replicated for simmilar interest.
+Handling HTTP data manually becomes a challanging task, especially when dealing with more than 5K observations and doing it by hand is not
+practical and could take months. To make things easier, the 'http' package offers a solution for managing HTTP data more efficiently.
+Here are some simple code examples for managing HTTP data, and you can use them for similar tasks.
